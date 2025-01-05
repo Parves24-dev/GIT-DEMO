@@ -1,0 +1,9 @@
+*{
+    margin: 5px;
+    padding: 10px;
+}
+div{
+    background-color: crimson;
+    margin-bottom: 10px;
+    border-radius: 25px;
+}
